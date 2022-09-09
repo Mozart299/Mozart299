@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mozart299
-- 👀 I’m interested in javascript,python,java
+- 👀 I’m interested in Front-end(reactjs),python(django,ML,Data science),java
 - 🌱 I’m currently learning javascript,python,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me peterkayk@gmail.com or twitter - @petercheune
