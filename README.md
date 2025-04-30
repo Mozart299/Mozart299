@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mozart299
-- 👀 I’m interested in Front-end(reactjs),python,Flutter (Mobile App development)
-- 🌱 I’m currently learning Flutter,python,React
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Sofware Engineering generally
+- 🌱 I’m currently working with Flutter, Python, Nextjs
+- 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me peterkayk@gmail.com or twitter - @petercheune
 
 <!---
