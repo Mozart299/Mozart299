@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mozart299
 - 👀 I’m interested in Software Engineering generally
-- 🌱 I’m currently working with Flutter, Python, Nextjs
+- 🌱 I’m currently working with Flutter, Java Spring, Nextjs
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me peterkayk@gmail.com or twitter - @petercheune
 
